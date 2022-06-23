@@ -1,4 +1,4 @@
 # Praktikum-PAB-1
 
 
-belajar git
+belajar git di repository
